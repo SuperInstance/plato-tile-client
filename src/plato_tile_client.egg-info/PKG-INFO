@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-tile-client
+Version: 0.1.0
+Summary: HTTP client for PLATO tile server — search, score, dedup
+License: MIT
+Requires-Python: >=3.8
